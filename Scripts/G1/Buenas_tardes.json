@@ -1,0 +1,252 @@
+[
+    {
+        "pose_id": 1,
+        "timestamp": "2026-07-16T13:39:45.020306",
+        "joints": {
+            "left_arm": {
+                "15": {
+                    "name": "LeftShoulderPitch",
+                    "q": 0.03423893079161644
+                },
+                "16": {
+                    "name": "LeftShoulderRoll",
+                    "q": 0.10333997756242752
+                },
+                "17": {
+                    "name": "LeftShoulderYaw",
+                    "q": -0.0821758359670639
+                },
+                "18": {
+                    "name": "LeftElbow",
+                    "q": 1.2408705949783325
+                },
+                "19": {
+                    "name": "LeftWristRoll",
+                    "q": 0.39392149448394775
+                }
+            },
+            "right_arm": {
+                "22": {
+                    "name": "RightShoulderPitch",
+                    "q": -0.21497303247451782
+                },
+                "23": {
+                    "name": "RightShoulderRoll",
+                    "q": -0.06875350326299667
+                },
+                "24": {
+                    "name": "RightShoulderYaw",
+                    "q": 0.06820222735404968
+                },
+                "25": {
+                    "name": "RightElbow",
+                    "q": -0.20845361053943634
+                },
+                "26": {
+                    "name": "RightWristRoll",
+                    "q": -0.08858739584684372
+                }
+            }
+        }
+    },
+    {
+        "pose_id": 2,
+        "timestamp": "2026-07-16T13:39:52.352568",
+        "joints": {
+            "left_arm": {
+                "15": {
+                    "name": "LeftShoulderPitch",
+                    "q": 0.038121819496154785
+                },
+                "16": {
+                    "name": "LeftShoulderRoll",
+                    "q": 0.10416688770055771
+                },
+                "17": {
+                    "name": "LeftShoulderYaw",
+                    "q": -0.08213987946510315
+                },
+                "18": {
+                    "name": "LeftElbow",
+                    "q": 1.2410264015197754
+                },
+                "19": {
+                    "name": "LeftWristRoll",
+                    "q": 0.39389750361442566
+                }
+            },
+            "right_arm": {
+                "22": {
+                    "name": "RightShoulderPitch",
+                    "q": -0.544455349445343
+                },
+                "23": {
+                    "name": "RightShoulderRoll",
+                    "q": -0.32112929224967957
+                },
+                "24": {
+                    "name": "RightShoulderYaw",
+                    "q": 1.051208257675171
+                },
+                "25": {
+                    "name": "RightElbow",
+                    "q": -0.7015685439109802
+                },
+                "26": {
+                    "name": "RightWristRoll",
+                    "q": 0.3689703345298767
+                }
+            }
+        }
+    },
+    {
+        "pose_id": 3,
+        "timestamp": "2026-07-16T13:39:55.560701",
+        "joints": {
+            "left_arm": {
+                "15": {
+                    "name": "LeftShoulderPitch",
+                    "q": 0.03874500095844269
+                },
+                "16": {
+                    "name": "LeftShoulderRoll",
+                    "q": 0.10468220710754395
+                },
+                "17": {
+                    "name": "LeftShoulderYaw",
+                    "q": -0.08213987946510315
+                },
+                "18": {
+                    "name": "LeftElbow",
+                    "q": 1.241050362586975
+                },
+                "19": {
+                    "name": "LeftWristRoll",
+                    "q": 0.3939095139503479
+                }
+            },
+            "right_arm": {
+                "22": {
+                    "name": "RightShoulderPitch",
+                    "q": -0.5617485642433167
+                },
+                "23": {
+                    "name": "RightShoulderRoll",
+                    "q": -0.32177644968032837
+                },
+                "24": {
+                    "name": "RightShoulderYaw",
+                    "q": 0.2954111397266388
+                },
+                "25": {
+                    "name": "RightElbow",
+                    "q": -0.35452932119369507
+                },
+                "26": {
+                    "name": "RightWristRoll",
+                    "q": 0.41259291768074036
+                }
+            }
+        }
+    },
+    {
+        "pose_id": 4,
+        "timestamp": "2026-07-16T13:40:05.535945",
+        "joints": {
+            "left_arm": {
+                "15": {
+                    "name": "LeftShoulderPitch",
+                    "q": -0.2543891370296478
+                },
+                "16": {
+                    "name": "LeftShoulderRoll",
+                    "q": -0.03808586671948433
+                },
+                "17": {
+                    "name": "LeftShoulderYaw",
+                    "q": -0.6332104802131653
+                },
+                "18": {
+                    "name": "LeftElbow",
+                    "q": 0.09008542448282242
+                },
+                "19": {
+                    "name": "LeftWristRoll",
+                    "q": 0.44034838676452637
+                }
+            },
+            "right_arm": {
+                "22": {
+                    "name": "RightShoulderPitch",
+                    "q": -0.6476514935493469
+                },
+                "23": {
+                    "name": "RightShoulderRoll",
+                    "q": 0.11236409842967987
+                },
+                "24": {
+                    "name": "RightShoulderYaw",
+                    "q": 0.7671342492103577
+                },
+                "25": {
+                    "name": "RightElbow",
+                    "q": 0.2015986442565918
+                },
+                "26": {
+                    "name": "RightWristRoll",
+                    "q": 0.020193420350551605
+                }
+            }
+        }
+    },
+    {
+        "pose_id": 5,
+        "timestamp": "2026-07-16T13:40:13.808506",
+        "joints": {
+            "left_arm": {
+                "15": {
+                    "name": "LeftShoulderPitch",
+                    "q": -0.17971543967723846
+                },
+                "16": {
+                    "name": "LeftShoulderRoll",
+                    "q": -0.022578280419111252
+                },
+                "17": {
+                    "name": "LeftShoulderYaw",
+                    "q": -0.563066840171814
+                },
+                "18": {
+                    "name": "LeftElbow",
+                    "q": 0.0412377193570137
+                },
+                "19": {
+                    "name": "LeftWristRoll",
+                    "q": 0.43778374791145325
+                }
+            },
+            "right_arm": {
+                "22": {
+                    "name": "RightShoulderPitch",
+                    "q": -0.18786472082138062
+                },
+                "23": {
+                    "name": "RightShoulderRoll",
+                    "q": -0.11890748143196106
+                },
+                "24": {
+                    "name": "RightShoulderYaw",
+                    "q": 0.8425509333610535
+                },
+                "25": {
+                    "name": "RightElbow",
+                    "q": -0.38638341426849365
+                },
+                "26": {
+                    "name": "RightWristRoll",
+                    "q": 0.11769707500934601
+                }
+            }
+        }
+    }
+]
